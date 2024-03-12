@@ -1,2 +1,2 @@
 # Pose-Estimation-Computer-Vision
-An interactive Python notebook showcasing computer vision applied to pose estimation. Pose estimation is the use of machine learning to estimate the pose of a person or animal from an image or a video by examining the spatial locations of key body joints
+An interactive Python notebook showcasing computer vision applied to pose estimation. Pose estimation is the use of machine learning to estimate the pose of a person or animal from an image or a video by examining the spatial locations of key body joints. Link to [Technical Report](https://ucladeepvision.github.io/CS188-Projects-2022Winter/2022/03/16/team19-pose-estimation.html)
